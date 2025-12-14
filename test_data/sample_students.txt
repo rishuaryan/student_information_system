@@ -1,0 +1,4 @@
+S001, John Doe, 20, 85.5, john@email.com
+S002, Jane Smith, 21, 92.0, jane@yahoo.com
+S003, Bob Wilson, 19, 78.5, bob@gmail.com
+S004, Alice Johnson, 22, 88.0, alice@outlook.com
